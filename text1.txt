@@ -1,1 +1,2 @@
 This is text one line from remote
+This is text second line from remote
